@@ -1,82 +1,37 @@
-<!doctype html>
-<html>
-<head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Privacy Policy — Tony LinkedIn Agent</title>
-<style>
+# Privacy Policy — Tony LinkedIn Agent
 
-body { font-family: Arial, Helvetica, sans-serif; max-width:760px; margin:32px auto; line-height:1.6; color:#222; padding:0 16px; }
-h1{font-size:24px}
-h2{font-size:18px;margin-top:22px}
-pre{background:#f6f8fa;padding:8px;border-radius:6px}
+Effective date: 2026-06-22
 
-</style>
-</head>
-<body>
-<h1>Privacy Policy — Tony LinkedIn Agent</h1>
-<p><strong>Effective date:</strong> 2026-06-22</p>
+This Privacy Policy explains how Tony LinkedIn Agent (“we”, “us”, or “our”) collects, uses, and discloses information when you connect your LinkedIn account to the app and use related services.
 
-<p>This Privacy Policy explains how <strong>Tony LinkedIn Agent</strong> (“we”, “us”, or “our”) collects, uses, and discloses information when you connect your LinkedIn account to the app and use related services.</p>
+## Information we collect
 
-<h2>Information we collect</h2>
-<ul>
+  * LinkedIn profile information: profile ID, name, email address, and any other LinkedIn fields you authorize.
+  * Authentication tokens: OAuth access tokens from LinkedIn needed to perform actions you explicitly approve (e.g., posting after approval).
+  * Approval emails: email addresses used to route approval requests and responses for drafts and replies.
 
-<li><strong>LinkedIn profile information:</strong> profile ID, name, email address, and any other LinkedIn fields you authorize.</li>
-<li><strong>Authentication tokens:</strong> OAuth access tokens from LinkedIn needed to perform actions you explicitly approve (e.g., posting after approval).</li>
-<li><strong>Approval emails:</strong> email addresses used to route approval requests and responses for drafts and replies.</li>
+## How we use information
 
-</ul>
+We use collected information to:
 
-<h2>How we use information</h2>
-<p>We use collected information to:</p>
-<ul>
+  * Draft LinkedIn posts and comment-reply suggestions using the permissions you grant.
+  * Send approval emails and process Yes/No responses to publish approved content.
+  * Troubleshoot and improve the service.
 
-<li>Draft LinkedIn posts and comment-reply suggestions using the permissions you grant.</li>
-<li>Send approval emails and process Yes/No responses to publish approved content.</li>
-<li>Troubleshoot and improve the service.</li>
+## Data retention and deletion
 
-</ul>
+We retain tokens and any stored drafts only as long as necessary to provide the approved service. You can revoke access by removing the app from your LinkedIn account (Account → Settings → Partners and Services) or by contacting us at the email below to request deletion of stored data.
 
-<h2>Data retention and deletion</h2>
-<p>We retain tokens and any stored drafts only as long as necessary to provide the approved service. You can revoke access by removing the app from your LinkedIn account (Account → Settings → Partners and Services) or by contacting us at the email below to request deletion of stored data.</p>
+## Security
 
-<h2>Security</h2>
-<p>We use reasonable technical and organizational measures to protect your data. However, no method of transmission or storage is 100% secure.</p>
+We use reasonable technical and organizational measures to protect your data. However, no method of transmission or storage is 100% secure.
 
-<h2>Your choices</h2>
-<p>You may revoke LinkedIn access at any time in your LinkedIn account settings. To request deletion of stored data or for other privacy concerns, contact: <a href="mailto:ynotbartlett@gmail.com">ynotbartlett@gmail.com</a>.</p>
+## Your choices
 
-<h2>Contact</h2>
-<p>If you have any questions about this policy or our practices, contact: <strong>ynotbartlett@gmail.com</strong>.</p>
+You may revoke LinkedIn access at any time in your LinkedIn account settings. To request deletion of stored data or for other privacy concerns, contact: ynotbartlett@gmail.com.
 
-<p><small>Note: This page is a simple privacy statement for the Tony LinkedIn Agent. It is not legal advice. For production or commercial usage, consult legal counsel if needed.</small></p>
-</body>
-</html>
+## Contact
 
-    Commit the file:
-        Commit changes → Add a short message like: Add privacy policy (index.html)
-        Click Commit new file.
+If you have any questions about this policy or our practices, contact: ynotbartlett@gmail.com.
 
-    Publish via GitHub Pages
-
-    In the repo go to Settings → Pages (or Settings → Pages & deployments).
-    Under "Build and deployment" / "Source", choose Branch: main and Folder: / (root).
-    Click Save (or Save/Enable).
-    Wait ~30–60 seconds. The Pages section will show the published site URL (example):
-    https://tonybartlett.github.io/linkedin-privacy-policy/
-    If the Pages section shows a deployment status, wait until it says "Your site is published" or shows the URL link.
-
-    Verify the page
-
-    Open a private/incognito browser window and visit the published URL.
-    Confirm the page loads and shows the policy text.
-    If you get 404 or cannot see it:
-        Ensure file is named index.html and at repository root
-        Ensure branch selected in Pages is main (or the branch where index.html was committed)
-        Ensure repository is Public
-        Wait a few minutes and refresh
-
-    Copy the URL into the LinkedIn App form
-
-    Copy the exact Pages URL (including trailing slash) and paste into the LinkedIn App form Privacy policy URL box.
+Note: This page is a simple privacy statement for the Tony LinkedIn Agent. It is not legal advice. For production or commercial usage, consult legal counsel if needed.
